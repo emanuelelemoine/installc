@@ -26,3 +26,4 @@ Install C on Windows with just one click.
 # clarify the control flow
 # keep defaults in sync with the manifest
 # clarify the control flow
+# clarify the control flow
