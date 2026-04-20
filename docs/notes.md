@@ -34,3 +34,4 @@ Notes and usage details for installc.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- link the usage section
